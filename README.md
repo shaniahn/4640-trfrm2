@@ -1,3 +1,5 @@
+4640 - Week 6 Lab
+
 1) Pull the code from this repository into your workspace folder
 2) You will need to source the .env file for Terraform and Ansible to be able to connect (this isn't included), so I would create a new token on your own DO account.
 3) Source the file that you've created with the token.
